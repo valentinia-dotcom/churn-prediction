@@ -1,4 +1,7 @@
 # Customer Churn Prediction
+## Live Demo
+
+[Open the Customer Churn Prediction App](https://churn-prediction-acj4eno9lhbodkge4ftrhp.streamlit.app/)
 
 An end-to-end Machine Learning classification project to predict customer churn using Python and Scikit-learn.
 
